@@ -1,53 +1,36 @@
-# Nombre de tu Proyecto 🚀
+### ¡Hola, qué tal! 👋 Soy Diyer Díaz
 
-> Breve descripción de una o dos líneas sobre lo que hace tu aplicación y qué problema resuelve.
-
-![Badge de Estado](https://img.shields.io/badge/Estado-En_Desarrollo-orange) 
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
+Estudiante de **Análisis y Desarrollo de Software (ADSO)** apasionado por la creación de soluciones tecnológicas eficientes, el desarrollo backend y la construcción de interfaces web funcionales. Me encanta aprender constantemente, explorar nuevas tecnologías y llevar ideas a la realidad a través del código.
 
 ---
 
-## 📋 Tabla de Contenidos
-- [Acerca del Proyecto](#-acerca-del-proyecto)
-- [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-- [Características Principales](#-características-principales)
-- [Instalación y Configuración](#-instalación-y-configuración)
-- [Uso](#-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Autor](#-autor)
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes:** Python, JavaScript, Java
+* **Backend:** Flask, FastAPI, Spring Boot
+* **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
+* **Bases de Datos:** MySQL, PostgreSQL, MariaDB, SQLite
+* **Herramientas & Entornos:** Git, Linux (Fedora / Linux Mint), Docker, Nginx, Coolify, n8n, Postman
 
 ---
 
-## 💡 Acerca del Proyecto
+### 🚀 Proyectos Desticulados
 
-Aquí puedes explicar con más detalle el propósito de tu proyecto. ¿Por qué lo creaste? ¿Qué tecnologías fueron clave para su desarrollo? Si forma parte de algún proyecto académico o personal, este es el lugar para mencionarlo.
-
----
-
-## 🛠 Tecnologías Utilizadas
-
-Este proyecto fue construido utilizando las siguientes tecnologías:
-
-* **Backend:** [Python / Flask / FastAPI / Spring Boot]
-* **Frontend:** [JavaScript / React / HTML / CSS]
-* **Base de Datos:** [MySQL / PostgreSQL / SQLite]
-* **Herramientas y Despliegue:** [Git, Docker, Coolify, Nginx, etc.]
+* 🌱 **AgroLulo:** Aplicación web desarrollada para la gestión y optimización de cultivos de lulo (Frontend en React y Backend en Flask).
+* ⏱️ **DY Habit Tracker:** Herramienta personal enfocada en el seguimiento de hábitos diarios y aprendizaje de vocabulario, con diseño responsivo y lógica de gamificación.
+* 🏨 **Sistema de Gestión Hotelera:** Proyecto backend y frontend con arquitectura estructurada para control de reservas y usuarios (Flask / Spring Boot / MySQL).
 
 ---
 
-## ✨ Características Principales
+### 📊 Estadísticas de GitHub
 
-* **Autenticación de Usuarios:** Sistema de inicio de sesión seguro.
-* **Gestión de Datos:** Creación, lectura, actualización y eliminación (CRUD) de registros.
-* **Interfaz Responsiva:** Diseño adaptable tanto para dispositivos móviles como de escritorio.
-* **[Otra característica única]:** Descripción breve.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
 
 ---
 
-## ⚙️ Instalación y Configuración
+### 🌐 Conectemos
 
-Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+* 💼 [GitHub](https://github.com/TU_USUARIO_GITHUB)
+* ✉️ Escríbeme o conéctate conmigo para hablar de tecnología, desarrollo de software o nuevos proyectos.it](https://github.com/tu-usuario/tu-repositorio.git)
